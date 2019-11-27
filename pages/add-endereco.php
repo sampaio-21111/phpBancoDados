@@ -17,7 +17,7 @@
             <input type="text" class="form-control" id="cidade" name="cidade" require>
         </div>
 
-        <div class="form-group">
+        <div class="form-group">            
             <label for="uf">Estado</label>
             <input type="text" class="form-control" id="uf" name="uf" maxlength="2" require>
         </div>
